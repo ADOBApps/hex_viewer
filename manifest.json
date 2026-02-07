@@ -1,0 +1,11 @@
+{
+  "name": "Hex Viewer",
+  "id": "hex_viewer",
+  "version": "1.0.0",
+  "author": "Acxel Orozco",
+  "description": "Hexadecimal/Binary Viewer inspired by Kate Morley web tool",
+  "type": "python",
+  "category": "tools",
+  "main": "__init__.py",
+  "dependencies": ["numpy", "matplotlib"]
+}

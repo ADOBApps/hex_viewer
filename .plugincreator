@@ -1,0 +1,18 @@
+{
+  "manifest": {
+    "name": "Hex Viewer",
+    "id": "",
+    "version": "",
+    "author": "",
+    "description": "",
+    "type": "python",
+    "category": "analysis",
+    "main": "__init__.py",
+    "dependencies": [
+      "numpy",
+      "matplotlib"
+    ],
+    "icon": ""
+  },
+  "dependencies": []
+}
