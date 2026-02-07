@@ -55,25 +55,15 @@ This plugin was created with the Plugin Maker tool.
 
 ```json
 {
-  "name": "QuantumOscillatorAnalyzer",
-  "id": "QuantumOscillatorAnalyzer",
+  "name": "Hex Viewer",
+  "id": "hex_viewer",
   "version": "1.0.0",
-  "author": "Test Developer",
-  "description": "Analyzes quantum harmonic oscillators with Lua acceleration",
+  "author": "Acxel Orozco",
+  "description": "Hexadecimal/Binary Viewer inspired by Kate Morley web tool",
   "type": "python",
-  "category": "analysis",
+  "category": "tools",
   "main": "__init__.py",
-  "icon": "icons/oscillator.png",
-  "dependencies": ["numpy"],
-  
-  "config": {
-    "default_backend": "lua",
-    "enable_benchmark": false
-  },
-  
-  "compatibility": {
-    "min_qah_version": "1.0.0"
-  }
+  "dependencies": ["numpy", "matplotlib"]
 }
 Version: 1.0.0
 Author: Acxel Orozco
