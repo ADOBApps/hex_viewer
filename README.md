@@ -1,6 +1,6 @@
 # Hex Viewer
 
-Hexadecimal/Binary Viewer inspired by Kate Morley web tool
+Hexadecimal/Binary Viewer plugin belongs Quantum Analysis Helper inspired by Kate Morley web tool
 
 ## Features
 
